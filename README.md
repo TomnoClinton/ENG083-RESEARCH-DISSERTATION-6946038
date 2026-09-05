@@ -1,4 +1,5 @@
-# Lifecycle Cost Optimisation of Productive-Use Solar Appliances in Kenya
+# THE LIFE-CYCLE COST OF EFFICIENCY:  A TECHNO-ECONOMIC ANALYSIS OF PRODUCTIVE-USE SOLAR APPLIANCES IN KENYA     
+
 
 **MSc Sustainable Energy | University of Surrey | ENGM083**
 **Author:** Tomno Kiprotich
