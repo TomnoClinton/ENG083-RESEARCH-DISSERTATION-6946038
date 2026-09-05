@@ -1,0 +1,13 @@
+Appliance,Location,Tariff,Std CAPEX (USD),Eff CAPEX (USD),Extra upfront,Std NPC (USD),Eff NPC (USD),NPC saving (USD),Std CO2e (kg),Eff CO2e (kg),CO2e saving (kg),Eff wins MC (%),Winner
+Fridge,Turkana,Flat,"$1,182","$1,161",$-22,"$2,491","$1,816",$676,"1,059",520,539,100.0%,Efficient
+Fridge,Turkana,Time of use,"$1,182","$1,161",$-22,"$2,405","$1,776",$630,"1,059",520,539,100.0%,Efficient
+Fridge,Kisumu,Flat,"$1,185","$1,162",$-23,"$2,494","$1,817",$677,"1,055",518,536,100.0%,Efficient
+Fridge,Kisumu,Time of use,"$1,185","$1,162",$-23,"$2,407","$1,777",$631,"1,055",518,536,100.0%,Efficient
+Pump,Turkana,Flat,"$1,437","$1,356",$-81,"$3,256","$2,223","$1,033","1,598","1,000",598,100.0%,Efficient
+Pump,Turkana,Time of use,"$1,437","$1,356",$-81,"$3,077","$2,137",$940,"1,598","1,000",598,100.0%,Efficient
+Pump,Kisumu,Flat,"$1,441","$1,360",$-81,"$3,260","$2,226","$1,034","1,589",992,597,100.0%,Efficient
+Pump,Kisumu,Time of use,"$1,441","$1,360",$-81,"$3,081","$2,140",$941,"1,589",992,597,100.0%,Efficient
+Mill,Turkana,Flat,"$1,266","$2,038",$772,"$3,848","$4,624",$-776,"1,277","1,277",0,0.0%,Standard
+Mill,Turkana,Time of use,"$1,266","$2,038",$772,"$3,561","$4,337",$-776,"1,277","1,277",0,0.0%,Standard
+Mill,Kisumu,Flat,"$1,271","$2,043",$772,"$3,853","$4,629",$-776,"1,267","1,267",0,0.0%,Standard
+Mill,Kisumu,Time of use,"$1,271","$2,043",$772,"$3,566","$4,342",$-776,"1,267","1,267",0,0.0%,Standard
