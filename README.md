@@ -1,4 +1,5 @@
-# THE LIFE-CYCLE COST OF EFFICIENCY:  A TECHNO-ECONOMIC ANALYSIS OF PRODUCTIVE-USE SOLAR APPLIANCES IN KENYA     
+# A Lifecycle Cost Optimisation Methodology to Evaluate Appliance Efficiency in Off-Grid Solar Systems: A Case Study for Kenya
+    
 
 
 **MSc Sustainable Energy | University of Surrey | ENGM083**
